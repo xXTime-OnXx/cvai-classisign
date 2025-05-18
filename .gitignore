@@ -466,3 +466,16 @@ junit/
 # Custom
 /data
 *.pth
+
+*.ppm
+*.pt
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.json
+*.log
+*.txt
+*.csv
+*.pth
+*.yaml
